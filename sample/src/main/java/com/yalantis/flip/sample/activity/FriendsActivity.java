@@ -14,6 +14,17 @@ public class FriendsActivity extends ActionBarActivity {
 //        final ListView friends = (ListView) findViewById(R.id.friends);
 //
 //        FlipSettings settings = new FlipSettings.Builder().defaultPage(1).build();
+ 
+//  
+//       This not found :  new FriendsAdapter(this, Utils.friends, settings))
+//                                 !       
+//                                 | Cast parameter to ListAdapter ?
+//                                 | but it does not work either.
+//
+//                                 You would know a solution?
+//
+//  
+  
 //        friends.setAdapter(new FriendsAdapter(this, Utils.friends, settings));
 //        friends.setOnItemClickListener(new AdapterView.OnItemClickListener() {
 //            @Override
